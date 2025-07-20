@@ -1,1 +1,1 @@
-web: gunicorn FoodDonationApp.wsgi
+web: gunicorn food_project.wsgi
